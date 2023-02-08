@@ -1,1 +1,2 @@
 # Division-Clothing-HTML
+Web development This project is a Website for my Clothing Line. This is the HTML/CSS code. I am a YouTuber and plan on making an actual website and clothing for my channel to sell to my viewers (https://www.youtube.com/channel/UCKgUCbGaYNE65idBgVSmKbQ). In this repository you will see the final mockup of what I would like my website to look like for the home page and some potential pages as well.
